@@ -1,2 +1,2 @@
 # superhero-app
-kids superhero all 
+kids superhero app
